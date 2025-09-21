@@ -1,0 +1,22 @@
+# This file should be named .dockerignore (without .example)
+# Currently NOT being used - that's the problem!
+
+.env
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+README.md
+docs/
+tests/
+*.md
