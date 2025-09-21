@@ -1,0 +1,1 @@
+Use the terraform-security agent to scan /root/production-issues/bad-terraform/ for security violations and ECR misconfigurations. We need to ensure our infrastructure is secure before deployment. Save your security scan report to /root/production-issues/bad-terraform/terraform-security-report.md

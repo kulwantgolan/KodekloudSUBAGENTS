@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1758418622,,"wq!"
+|2,0,1758419454,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,27 @@
 # Registers:
 
 # File marks:
-'0  1  290  ~/prompts/prompt1.txt
-|4,48,1,290,1758418622,"~/prompts/prompt1.txt"
+'0  1  296  ~/prompts/prompt2.txt
+|4,48,1,296,1758419454,"~/prompts/prompt2.txt"
+'1  1  290  ~/prompts/prompt1.txt
+|4,49,1,290,1758418622,"~/prompts/prompt1.txt"
 
 # Jumplist (newest first):
+-'  1  296  ~/prompts/prompt2.txt
+|4,39,1,296,1758419454,"~/prompts/prompt2.txt"
+-'  1  290  ~/prompts/prompt1.txt
+|4,39,1,290,1758418622,"~/prompts/prompt1.txt"
 -'  1  290  ~/prompts/prompt1.txt
 |4,39,1,290,1758418622,"~/prompts/prompt1.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/prompts/prompt2.txt
+	*	1758419451	0
+	"	1	296
+	^	1	297
+	.	1	296
+	+	1	296
 
 > ~/prompts/prompt1.txt
 	*	1758418619	0
